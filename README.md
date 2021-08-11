@@ -2,7 +2,7 @@
 
 # IC Material Playground
 
-Modern starter and mini playground for the Internet Computer powered by [Create IC APP](https://github.com/MioQuispe/create-ic-app), [ViteJS](https://vitejs.dev/), [ReactJS](https://reactjs.org/), & [Material UI](https://tailwindcss.com/)
+Modern dashboard playground for the Internet Computer powered by [Create IC APP](https://github.com/MioQuispe/create-ic-app), [ViteJS](https://vitejs.dev/), [ReactJS](https://reactjs.org/), & [Material UI](https://tailwindcss.com/)
 
 ## Includes :
 
