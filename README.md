@@ -26,7 +26,7 @@ DFX_VERSION=0.7.2 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
 With Git:
 
 ```
-git clone https://github.com/ferMartz/ic-material.git
+git clone https://github.com/ferMartz/ic-material-playground.git
 ```
 
 With NPM:
